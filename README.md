@@ -50,7 +50,7 @@ We recommend using Debian or Ubuntu 20.04 Linux distributions.
 
 ### MacOS
 
-Preparation is covered in a [separate document](docsBUILDING_MACOS.md).
+Preparation is covered in a [separate document](docs/BUILDING_MACOS.md).
 
 
 ### Linux (Native or under WSL / VM)
